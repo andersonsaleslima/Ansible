@@ -5,4 +5,4 @@
 
 #### em desenvolvimento
 
-  em desenvolvimento
+		setenforce 0
